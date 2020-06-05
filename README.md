@@ -1,8 +1,8 @@
-# array-cardio-exercise
+# js-array-functions-exercise
 
 ## About the exercise
 
-- The **array-cardio-exercise** is a simple exercise built with **_VanillaJS_** that approaches JS Array Functions.
+- The **js-array-functions-exercise** is a simple exercise built with **_VanillaJS_** that approaches JS Array Functions.
 
 ## The functionality
 
